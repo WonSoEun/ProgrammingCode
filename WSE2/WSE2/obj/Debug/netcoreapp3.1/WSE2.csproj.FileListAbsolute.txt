@@ -1,0 +1,14 @@
+E:\소은_유한\2학년 1학기\콘텐츠 기획\WSE2\WSE2\bin\Debug\netcoreapp3.1\WSE2.exe
+E:\소은_유한\2학년 1학기\콘텐츠 기획\WSE2\WSE2\bin\Debug\netcoreapp3.1\WSE2.deps.json
+E:\소은_유한\2학년 1학기\콘텐츠 기획\WSE2\WSE2\bin\Debug\netcoreapp3.1\WSE2.runtimeconfig.json
+E:\소은_유한\2학년 1학기\콘텐츠 기획\WSE2\WSE2\bin\Debug\netcoreapp3.1\WSE2.runtimeconfig.dev.json
+E:\소은_유한\2학년 1학기\콘텐츠 기획\WSE2\WSE2\bin\Debug\netcoreapp3.1\WSE2.dll
+E:\소은_유한\2학년 1학기\콘텐츠 기획\WSE2\WSE2\bin\Debug\netcoreapp3.1\WSE2.pdb
+E:\소은_유한\2학년 1학기\콘텐츠 기획\WSE2\WSE2\obj\Debug\netcoreapp3.1\WSE2.csproj.AssemblyReference.cache
+E:\소은_유한\2학년 1학기\콘텐츠 기획\WSE2\WSE2\obj\Debug\netcoreapp3.1\WSE2.GeneratedMSBuildEditorConfig.editorconfig
+E:\소은_유한\2학년 1학기\콘텐츠 기획\WSE2\WSE2\obj\Debug\netcoreapp3.1\WSE2.AssemblyInfoInputs.cache
+E:\소은_유한\2학년 1학기\콘텐츠 기획\WSE2\WSE2\obj\Debug\netcoreapp3.1\WSE2.AssemblyInfo.cs
+E:\소은_유한\2학년 1학기\콘텐츠 기획\WSE2\WSE2\obj\Debug\netcoreapp3.1\WSE2.csproj.CoreCompileInputs.cache
+E:\소은_유한\2학년 1학기\콘텐츠 기획\WSE2\WSE2\obj\Debug\netcoreapp3.1\WSE2.dll
+E:\소은_유한\2학년 1학기\콘텐츠 기획\WSE2\WSE2\obj\Debug\netcoreapp3.1\WSE2.pdb
+E:\소은_유한\2학년 1학기\콘텐츠 기획\WSE2\WSE2\obj\Debug\netcoreapp3.1\WSE2.genruntimeconfig.cache

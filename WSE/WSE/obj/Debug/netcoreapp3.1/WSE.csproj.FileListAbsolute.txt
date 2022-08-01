@@ -1,0 +1,40 @@
+C:\Users\Master\Desktop\유한\과제\WSE\WSE\bin\Debug\netcoreapp3.1\WSE.exe
+C:\Users\Master\Desktop\유한\과제\WSE\WSE\bin\Debug\netcoreapp3.1\WSE.deps.json
+C:\Users\Master\Desktop\유한\과제\WSE\WSE\bin\Debug\netcoreapp3.1\WSE.runtimeconfig.json
+C:\Users\Master\Desktop\유한\과제\WSE\WSE\bin\Debug\netcoreapp3.1\WSE.runtimeconfig.dev.json
+C:\Users\Master\Desktop\유한\과제\WSE\WSE\bin\Debug\netcoreapp3.1\WSE.dll
+C:\Users\Master\Desktop\유한\과제\WSE\WSE\bin\Debug\netcoreapp3.1\WSE.pdb
+C:\Users\Master\Desktop\유한\과제\WSE\WSE\obj\Debug\netcoreapp3.1\WSE.csprojAssemblyReference.cache
+C:\Users\Master\Desktop\유한\과제\WSE\WSE\obj\Debug\netcoreapp3.1\WSE.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\유한\과제\WSE\WSE\obj\Debug\netcoreapp3.1\WSE.AssemblyInfo.cs
+C:\Users\Master\Desktop\유한\과제\WSE\WSE\obj\Debug\netcoreapp3.1\WSE.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\유한\과제\WSE\WSE\obj\Debug\netcoreapp3.1\WSE.dll
+C:\Users\Master\Desktop\유한\과제\WSE\WSE\obj\Debug\netcoreapp3.1\WSE.pdb
+C:\Users\Master\Desktop\유한\과제\WSE\WSE\obj\Debug\netcoreapp3.1\WSE.genruntimeconfig.cache
+C:\Users\Master\Desktop\유한\과제\콘텐츠 기획\WSE\WSE\bin\Debug\netcoreapp3.1\WSE.exe
+C:\Users\Master\Desktop\유한\과제\콘텐츠 기획\WSE\WSE\bin\Debug\netcoreapp3.1\WSE.deps.json
+C:\Users\Master\Desktop\유한\과제\콘텐츠 기획\WSE\WSE\bin\Debug\netcoreapp3.1\WSE.runtimeconfig.json
+C:\Users\Master\Desktop\유한\과제\콘텐츠 기획\WSE\WSE\bin\Debug\netcoreapp3.1\WSE.runtimeconfig.dev.json
+C:\Users\Master\Desktop\유한\과제\콘텐츠 기획\WSE\WSE\bin\Debug\netcoreapp3.1\WSE.dll
+C:\Users\Master\Desktop\유한\과제\콘텐츠 기획\WSE\WSE\bin\Debug\netcoreapp3.1\WSE.pdb
+C:\Users\Master\Desktop\유한\과제\콘텐츠 기획\WSE\WSE\obj\Debug\netcoreapp3.1\WSE.csprojAssemblyReference.cache
+C:\Users\Master\Desktop\유한\과제\콘텐츠 기획\WSE\WSE\obj\Debug\netcoreapp3.1\WSE.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\유한\과제\콘텐츠 기획\WSE\WSE\obj\Debug\netcoreapp3.1\WSE.AssemblyInfo.cs
+C:\Users\Master\Desktop\유한\과제\콘텐츠 기획\WSE\WSE\obj\Debug\netcoreapp3.1\WSE.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\유한\과제\콘텐츠 기획\WSE\WSE\obj\Debug\netcoreapp3.1\WSE.dll
+C:\Users\Master\Desktop\유한\과제\콘텐츠 기획\WSE\WSE\obj\Debug\netcoreapp3.1\WSE.pdb
+C:\Users\Master\Desktop\유한\과제\콘텐츠 기획\WSE\WSE\obj\Debug\netcoreapp3.1\WSE.genruntimeconfig.cache
+E:\소은_유한\2학년 1학기\콘텐츠 기획\WSE\WSE\bin\Debug\netcoreapp3.1\WSE.exe
+E:\소은_유한\2학년 1학기\콘텐츠 기획\WSE\WSE\bin\Debug\netcoreapp3.1\WSE.deps.json
+E:\소은_유한\2학년 1학기\콘텐츠 기획\WSE\WSE\bin\Debug\netcoreapp3.1\WSE.runtimeconfig.json
+E:\소은_유한\2학년 1학기\콘텐츠 기획\WSE\WSE\bin\Debug\netcoreapp3.1\WSE.runtimeconfig.dev.json
+E:\소은_유한\2학년 1학기\콘텐츠 기획\WSE\WSE\bin\Debug\netcoreapp3.1\WSE.dll
+E:\소은_유한\2학년 1학기\콘텐츠 기획\WSE\WSE\bin\Debug\netcoreapp3.1\WSE.pdb
+E:\소은_유한\2학년 1학기\콘텐츠 기획\WSE\WSE\obj\Debug\netcoreapp3.1\WSE.csproj.AssemblyReference.cache
+E:\소은_유한\2학년 1학기\콘텐츠 기획\WSE\WSE\obj\Debug\netcoreapp3.1\WSE.GeneratedMSBuildEditorConfig.editorconfig
+E:\소은_유한\2학년 1학기\콘텐츠 기획\WSE\WSE\obj\Debug\netcoreapp3.1\WSE.AssemblyInfoInputs.cache
+E:\소은_유한\2학년 1학기\콘텐츠 기획\WSE\WSE\obj\Debug\netcoreapp3.1\WSE.AssemblyInfo.cs
+E:\소은_유한\2학년 1학기\콘텐츠 기획\WSE\WSE\obj\Debug\netcoreapp3.1\WSE.csproj.CoreCompileInputs.cache
+E:\소은_유한\2학년 1학기\콘텐츠 기획\WSE\WSE\obj\Debug\netcoreapp3.1\WSE.dll
+E:\소은_유한\2학년 1학기\콘텐츠 기획\WSE\WSE\obj\Debug\netcoreapp3.1\WSE.pdb
+E:\소은_유한\2학년 1학기\콘텐츠 기획\WSE\WSE\obj\Debug\netcoreapp3.1\WSE.genruntimeconfig.cache
